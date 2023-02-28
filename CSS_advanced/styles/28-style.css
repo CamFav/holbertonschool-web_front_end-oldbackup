@@ -118,6 +118,10 @@ a:active {
     --header-logo-link-left: 0;
 }
 
+.header {
+    padding: var(--header-padding);
+}
+
 .header-logo {
     position: var(--header-logo-link-position);
 }
